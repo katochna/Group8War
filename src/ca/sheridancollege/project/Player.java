@@ -32,9 +32,9 @@ public abstract class Player {
     }
 
     /**
-     * Ensure that the playerID is unique
+     * Ensure that playerID is unique
      *
-     * @param name the player name to set
+     * @param name player name to set
      */
     public void setName(String name) {
         this.name = name;
